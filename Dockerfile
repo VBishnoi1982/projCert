@@ -1,4 +1,4 @@
-FROM admin/php
+FROM ubuntu
 
 ADD website /var/www/html
 
