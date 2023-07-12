@@ -1,4 +1,4 @@
-FROM admin/webapp
+FROM admin/project
 
 ADD website /var/www/html
 
