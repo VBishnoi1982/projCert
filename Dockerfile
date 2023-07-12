@@ -1,4 +1,4 @@
-FROM php
+FROM admin/testcontainer1
 
 ADD website /var/www/html
 
